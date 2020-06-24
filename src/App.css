@@ -21,8 +21,19 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: yellow;
 }
+
+.Row {
+  font-size: 10px;
+  color: whitesmoke
+}
+
+.Link {
+  font-size: 1px;
+  color: whitesmoke
+}
+
 
 .App-link {
   color: #61dafb;
