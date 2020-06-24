@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { CSVLink } from "react-csv"
 import { CSVReader } from 'react-papaparse'
-import { useTable, useSortBy } from 'react-table'
 
 const buttonRef = React.createRef()
 
